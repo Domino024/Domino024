@@ -1,4 +1,4 @@
-# Hi 👋, I'm Rahul Gupta
+<h1 align="center">Hi 👋, I'm Rahul Gupta</h1>
 
 <h3 align="center">AI Product & AI/ML Engineer | Voice AI | Agentic AI | Generative AI</h3>
 
